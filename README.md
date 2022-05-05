@@ -1,7 +1,7 @@
 #### [UPLOADER-BOT](https://t.me/uploader_x_bot)
 
 [![Size](https://img.shields.io/github/repo-size/Clinton-Abraham/UPLOADER-BOT?style=flat-square&color=green)](https://github.com/Clinton-Abraham/UPLOADER-BOT)
-
+https://www.heroku.com/deploy?template=https://github.com/Skystapper/urlbot/tree/dev
 ---
 
 Telegram RoBot to Upload Links.
@@ -32,7 +32,7 @@ heroku/python
 ⚠️ AFTER FORK EDIT DEPLOY BUTTON REPLACE WITH YOUR REPO LINK ⚙️
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Skystapper/hope/issues/14#issuecomment-1021253536)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Skystapper/hope/issues/14#issuecomment-1021253536)
 
 ## BOT COMMANDS
 
